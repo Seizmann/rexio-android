@@ -44,9 +44,9 @@ RexiO is a powerful AI platform designed for speed, intelligence, and modern use
 ## 📸 App Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/250x500?text=RexiO+Screen+1"/>
-  <img src="https://via.placeholder.com/250x500?text=RexiO+Screen+2"/>
-  <img src="https://via.placeholder.com/250x500?text=RexiO+Screen+3"/>
+  <img src="https://i.postimg.cc/prNHVMNJ/8d261d8c-1501-452f-9b7e-002ca345683e.jpg"/>
+  <img src="https://i.postimg.cc/nck6gDL4/bd82f1fe-f044-41e1-9e51-f8b918447cd4.jpg"/>
+  <img src="https://i.postimg.cc/R0j8K1Pn/76f4a866-e11f-4397-a34b-0fad366cd963.jpg"/>
 </p>
 
 ---
