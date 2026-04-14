@@ -49,38 +49,6 @@ RexiO is a powerful AI platform designed for speed, intelligence, and modern use
   <img src="https://i.postimg.cc/R0j8K1Pn/76f4a866-e11f-4397-a34b-0fad366cd963.jpg" alt="Rexio Screenshot 3">
 </div>
 
-<style>
-.screenshot-row {
-  display: flex;
-  gap: 16px;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  padding: 20px;
-}
-
-.screenshot-row img {
-  width: 30%;
-  max-width: 250px;
-  border-radius: 20px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-  transition: transform 0.3s ease;
-}
-
-.screenshot-row img:hover {
-  transform: scale(1.05);
-}
-
-/* Mobile responsive */
-@media (max-width: 768px) {
-  .screenshot-row img {
-    width: 80%;
-  }
-}
-</style>
-
----
-
 ## ⚙️ Installation Guide
 
 1. Download the APK  
